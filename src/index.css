@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --custom-light-blue: #e6f0ff;
+  --custom-btn : #146EF5;
+  --custom-btn-hover : #191970;
+}
